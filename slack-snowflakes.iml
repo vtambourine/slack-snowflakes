@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="RUBY_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <excludeFolder url="file://$MODULE_DIR$/vendor/bundle" />
+    </content>
+    <orderEntry type="jdk" jdkName="ruby-2.3.1-p112" jdkType="RUBY_SDK" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="event_emitter (vbundled(0.2.5), /Users/vkleshchenko/Code/slack-snowflakes/vendor/bundle/ruby/2.3.0/gems/event_emitter-0.2.5) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/event_emitter-0.2.5/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/event_emitter-0.2.5/samples" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/event_emitter-0.2.5/benchmark" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/event_emitter-0.2.5/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/event_emitter-0.2.5/samples" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/event_emitter-0.2.5/benchmark" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="eventmachine (vbundled(1.2.1), /Users/vkleshchenko/Code/slack-snowflakes/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.1) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.1/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.1/java" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.1/tests" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.1/rakelib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.1/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.1/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.1/java" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.1/tests" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/eventmachine-1.2.1/rakelib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="websocket (vbundled(1.2.3), /Users/vkleshchenko/Code/slack-snowflakes/vendor/bundle/ruby/2.3.0/gems/websocket-1.2.3) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/websocket-1.2.3/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/websocket-1.2.3/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="websocket-client-simple (vbundled(0.3.0), /Users/vkleshchenko/Code/slack-snowflakes/vendor/bundle/ruby/2.3.0/gems/websocket-client-simple-0.3.0) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/websocket-client-simple-0.3.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/websocket-client-simple-0.3.0/sample" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/websocket-client-simple-0.3.0/lib" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/websocket-client-simple-0.3.0/sample" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="websocket-eventmachine-base (vbundled(1.2.0), /Users/vkleshchenko/Code/slack-snowflakes/vendor/bundle/ruby/2.3.0/gems/websocket-eventmachine-base-1.2.0) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/websocket-eventmachine-base-1.2.0/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/websocket-eventmachine-base-1.2.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="websocket-eventmachine-client (vbundled(1.2.0), /Users/vkleshchenko/Code/slack-snowflakes/vendor/bundle/ruby/2.3.0/gems/websocket-eventmachine-client-1.2.0) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/websocket-eventmachine-client-1.2.0/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/websocket-eventmachine-client-1.2.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="websocket-native (vbundled(1.0.0), /Users/vkleshchenko/Code/slack-snowflakes/vendor/bundle/ruby/2.3.0/gems/websocket-native-1.0.0) [path][gem]">
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/websocket-native-1.0.0/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/websocket-native-1.0.0/lib" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/websocket-native-1.0.0/ext" />
+          <root url="file://$MODULE_DIR$/vendor/bundle/ruby/2.3.0/gems/websocket-native-1.0.0/lib" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="library" scope="PROVIDED" name="bundler (v1.13.6, ruby-2.3.1-p112) [gem]" level="application" />
+  </component>
+</module>
